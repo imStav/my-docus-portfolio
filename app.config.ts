@@ -2,7 +2,7 @@ export default defineAppConfig({
   docus: {
     title: 'Steven Averlant | Front-End developer',
     description: 'Hi there! I am Steven Averlant, a Front-End developer. I mainly work with modern tech stacks such as Vue 3 (Composition API), Nuxt 3 & Nuxt modules, TypeScript.',
-    image: 'public/meta-banner.png',
+    image: 'https://steven-averlant.netlify.app//meta-banner.png',
     socials: {
       github: 'imStav',
     },
