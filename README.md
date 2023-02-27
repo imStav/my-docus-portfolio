@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/public/mockup-dark.jpg">
-  <img alt="My Portfolio mockups in light color mode and dark color mode." src="/public/mockup-light.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="/public/mockup-dark.png">
+  <img alt="My Portfolio mockups in light color mode and dark color mode." src="/public/mockup-light.png">
 </picture>
 
 # My Docus Portfolio
