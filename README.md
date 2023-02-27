@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/public/mockup-dark.jpg">
+  <img alt="My Portfolio mockups in light color mode and dark color mode." src="/public/mockup-light.jpg">
+</picture>
+
 # My Docus Portfolio
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/efe933d7-284c-4ab4-b2eb-06383ad18329/deploy-status)](https://app.netlify.com/sites/steven-averlant/deploys)
