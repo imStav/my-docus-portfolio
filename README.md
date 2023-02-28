@@ -7,12 +7,12 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/efe933d7-284c-4ab4-b2eb-06383ad18329/deploy-status)](https://app.netlify.com/sites/steven-averlant/deploys)
 
-> This is the source code of my actual portfolio (2023). Made using the `Docus` theme based on `Nuxt 3 ` and the `Nuxt Content` module
+> This is the source code of my actual portfolio (2023). Made using the `Docus` theme based on `Nuxt 3` and the `Nuxt Content`* module
 
 ## Technologies
 
 * Nuxt 3
-* Nuxt Content
+* Nuxt Content *_(Work in progress)_
 * Docus
 
 *Find more informations in the `package.json` file*
