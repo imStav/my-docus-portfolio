@@ -7,9 +7,7 @@ export default defineTheme({
   typography: {
     font: {
       display: 'ClashDisplay-Variable',
-      body: 'Satoshi-Variable',
       sans: 'Satoshi-Variable',
-      serif: 'Satoshi-Variable',
     },
   },
 })
